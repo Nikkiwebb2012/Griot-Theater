@@ -1,4 +1,6 @@
 *{
+    font-family: 'Open Sans', sans-serif;
+
     margin: 0%;
     padding: 0%;
 }
@@ -120,6 +122,8 @@ min-width: 500px;
 
 .flexbox-item-2{
     display: flex;
+    justify-content: center;
+    align-items: center;
 min-height: 200px;
 min-width: 500px;
 }
@@ -127,12 +131,16 @@ min-width: 500px;
 
 .flexbox-item-3{
     display: flex;
+    justify-content: center;
+    align-items: center;
 min-height: 200px;
 min-width: 500px;
 }
 
 .flexbox-item-4{
     display: flex;
+    justify-content: center;
+    align-items: center;
     min-height: 200px;
     min-width: 500px;
     }
@@ -144,7 +152,8 @@ min-width: 500px;
 }
 .button1{
     background-color:gold;
-    color: rgb(4, 4, 4) Bold;
+    color: rgb(4, 4, 4) ;
+    font-weight: ;
     height: 25px;
     width: 250px;
     display: flex;
@@ -155,7 +164,7 @@ min-width: 500px;
 
 .button2{
     background-color:gold;
-    color: rgb(4, 4, 4) Bold;
+    color: rgb(4, 4, 4) ;
     height: 25px;
     width: 250px;
     display: flex;
@@ -165,7 +174,7 @@ min-width: 500px;
 
 .button3{
     background-color:gold;
-    color: rgb(4, 4, 4) Bold;
+    color: rgb(4, 4, 4) ;
     height: 25px;
     width: 250px;
     display: flex;
@@ -244,3 +253,4 @@ footer{
 .tiny{
     margin: 3px;
 }
+
